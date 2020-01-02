@@ -14,9 +14,10 @@ x_employee_prs = 0
 employees = ['suhothayan', 'mohanvive', 'niveathika', 'RAVEENSR', 'ramindu90', 'sayshika', 'lasanthaS',
              'harsha89', 'RukshiW', 'miyurud', 'ashensw', 'nirmal070125', 'dnwick', 'sajithshn', 'keizer619',
              'praminda', 'nadundesilva', 'tishan89', 'niruhan', 'pcnfernando', 'vithu30', 'dilini-muthumala',
-             'hemikak', 'AnuGayan', 'kalaiyarasiganeshalingam', 'grainier', 'gimantha',
+             'hemikak', 'AnuGayan', 'kalaiyarasiganeshalingam', 'grainier', 'gimantha', 'CharukaK', "suganyasuven",
              'dependabot-preview[bot]', 'Methma', 'senthuran16', 'sahandilshan', 'BuddhiWathsala', 'dunithd',
-             'ramith', 'PrabodDunuwila', 'dushaniw', 'pamodaaw', 'Meruja', 'gomathyk']
+             'ramith', 'PrabodDunuwila', 'dushaniw', 'pamodaaw', 'Meruja', 'gomathyk', 'shafanaS', 'erangatl',
+             'chaminda', 'madurangasiriwardena']
 
 x_employees = ['rajeev3001', 'lasanthafdo', 'ayash', 'minudika', 'Yasara123', 'ChariniNana', 'Anoukh', 'thiliA',
                'ChathurikaA', 'slgobinath', 'gokul', 'ksdperera', 'this', 'NisalaNiroshana', 'manoramahp', 'sacjaya',
